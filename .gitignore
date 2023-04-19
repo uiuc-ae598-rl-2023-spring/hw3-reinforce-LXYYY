@@ -133,3 +133,6 @@ dmypy.json
 
 .idea/
 *.pt
+
+*.pth
+logs/
