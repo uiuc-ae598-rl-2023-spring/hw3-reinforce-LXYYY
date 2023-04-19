@@ -47,7 +47,7 @@ def main():
     # Define a policy that maps every state to the "zero torque" action
 
     # Simulate an episode and save the result as an animated gif
-    env.video(policy, filename='figures/test_discreteaction_pendulum.gif')
+    env.video(policy, filename='figures/test_pendulum.gif')
 
     #
     ######################################
